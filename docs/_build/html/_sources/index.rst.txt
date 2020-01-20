@@ -18,10 +18,10 @@ Specifically, we will walk you through the following topics:
     :caption: The Workbook
 
     getting-started
-    dockerize the application
-    move the code to monohooq repo with (or) without git history
-    introduction to quay.io docker registry tool
-    introduction to Github Actions CICD tool
+    dockerize-the-application
+    move-code-to-monohooq-repo
+    quay-io-docker-registry
+    github-actions-CICD
     life-cycle
     repostructure
     infra-deploy
