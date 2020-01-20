@@ -4,7 +4,9 @@ CloudSre Workbook
 
 Welcome to the Hooq-Cloudsre Workbook !
 
-The intent of this workbook is to motivate developers to make use of monohooq repo, Terraform for Infrastructure as a code (IaaC)  and enable them to do Application Onboarding on their own.
+The intent of this workbook is to motivate developers to make use of monohooq repo.
+
+We used Terraform to write  Infrastructure as a code (IaaC)
 
 Knowledge in AWS, Terraform, Ansible are preferred.
 Background in python is not required, but it is recommended.
